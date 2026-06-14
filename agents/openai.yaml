@@ -1,0 +1,4 @@
+interface:
+  display_name: "Germany Study Advisor"
+  short_description: "Check German study eligibility and fit"
+  default_prompt: "Use $germany-study-advisor to check my German university admission eligibility, fee expectations, GPA conversion, and program fit."
